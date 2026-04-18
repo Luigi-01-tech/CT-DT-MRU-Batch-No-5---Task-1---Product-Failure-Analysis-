@@ -13,7 +13,7 @@
 **Task Completed:**  
 ✅ Product identified & fixed using Design Thinking  
 ✅ All features explored with detailed statistics  
-✅ Professional Excel with 8 embedded charts  
+✅ Professional Excel with 8 embedded charts, all charts are embedded in the Excel file, please download the .xlsx file to view the interactive charts.
 
 
 ### 📊 Files in this Task Folder:
